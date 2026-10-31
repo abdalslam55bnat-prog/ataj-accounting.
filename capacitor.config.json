@@ -1,0 +1,6 @@
+{
+  "appId": "com.meftah.accounting",
+  "appName": "الميزان المحاسبات",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
