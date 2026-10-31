@@ -1,0 +1,8 @@
+{
+  "name": "my-html-app",
+  "version": "1.0.0",
+  "description": "Android HTML App",
+  "scripts": {
+    "build": "echo Build started"
+  }
+}
