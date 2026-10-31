@@ -1,8 +1,14 @@
 {
-  "name": "my-html-app",
+  "name": "meftah-accounting",
   "version": "1.0.0",
-  "description": "Android HTML App",
+  "private": true,
   "scripts": {
-    "build": "echo Build started"
+    "build": "npx cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/core": "^7.4.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.3"
   }
 }
